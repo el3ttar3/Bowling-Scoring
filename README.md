@@ -78,7 +78,6 @@ CV-bowling-proj/
 | Per-pin timing (frame-PTS based) | ✅ reused |
 | ByteTrack-lite tracker | ✅ reused, inlined |
 | **Ball labels** | 🆕 hand-curated locally (Hough circles + HSV + temporal continuity, then visually verified) |
-| Mobile UI / Flutter / IPA | ❌ not in this project — Colab + Gradio only |
 | Model weights | ✅ transfer-learn from previous `best.pt` (pin classes 1/2/3 identical) |
 
 ## Producing `ball_labels.zip` (already done — kept for repeatability)
