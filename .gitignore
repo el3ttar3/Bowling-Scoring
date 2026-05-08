@@ -1,0 +1,23 @@
+# Reproducible artifacts (generated from inputs)
+local/frames/
+local/preview/
+local/preview_v2/
+local/montage/
+
+# Downloadable models
+local/yolo11x.pt
+local/yolo11n.pt
+local/best.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Editors
+.idea/
+.vscode/
