@@ -10,7 +10,6 @@ End-to-end Colab pipeline for scoring a bowling-style game (small ball + Schwepp
 
 - **Abdelrahman Elattar** — ID 202201353
 - **Abdelrahman Omar** — ID 202202254
-- **Reem Ehab** — ID 202201373
 
 ## Resources
 
